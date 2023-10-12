@@ -1,0 +1,5 @@
+package com.velocity.restcontroller;
+
+public class ConnectionRestController {
+
+}
