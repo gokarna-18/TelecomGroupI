@@ -1,0 +1,5 @@
+CREATE SCHEMA `telecom_project` ;
+
+use telecom_project;
+
+create table Connection(username varchar  (255), connection_id int(255) primary key auto_increment,connection_status varchar(255));
